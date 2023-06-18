@@ -34,7 +34,7 @@ Many different users access many different songs, change parts of them and often
 ![Challenge 2 Image](challenge2.png)
 
 <details>
-<summary>READ mode</summary>
+<summary>READ more</summary>
 [Description of the challenge goes here...]
 </details>
 
