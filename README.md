@@ -1,6 +1,4 @@
-# FaithTech-Austria-Hackathon-2023
-
-# Welcome to the first FaithTech Hackathon of the Austrian Community!
+# FaithTech Austria Hackathon 2023
 
 ![Organization Logo](logo.png)
 
