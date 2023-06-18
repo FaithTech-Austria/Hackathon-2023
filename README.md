@@ -5,10 +5,10 @@
 ### Challenge 1: Kickstart the Songsheets Manager App
 ![Challenge 1 Image](challenge_1.jpg)
 
-<span style="background-color: orange">#Worship</span>
-<span style="background-color: orange">#Mixed Bands</span>
-<span style="background-color: orange">#Songsheet Management</span>
-<span style="background-color: gray">#App Development</span>
+<span style="background-color: orange">Worship</span>
+<span style="background-color: orange">Mixed Bands</span>
+<span style="background-color: orange">Songsheet Management</span>
+<span style="background-color: gray">App Development</span>
 
 
 <details>
@@ -23,9 +23,9 @@ Many different users access many different songs, change parts of them and often
 2. Database modelling and implementation in Java Spring Boot
 
 #### TechStack
-<span style="background-color: cyan">#Flutter App</span>
-<span style="background-color: gray">#Spring boot Java </span>
-<span style="background-color: gray">#MySQL Datenbank</span>
+<span style="background-color: cyan">Flutter App</span>
+<span style="background-color: gray">Java Spring boot</span>
+<span style="background-color: gray">MySQL Datenbank</span>
 
 </details>
 
