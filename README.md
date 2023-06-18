@@ -2,7 +2,7 @@
 
 # Welcome to the first FaithTech Hackathon of the Austrian Community!
 
-![Organization Logo](logo.png)
+![Organization Logo](challenge_1_image.png)
 
 ## Challenges
 
