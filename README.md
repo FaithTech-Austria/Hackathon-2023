@@ -4,15 +4,17 @@
 
 ## Challenges
 
-<details>
-<summary>Challenge: Kickstart the Songsheets Manager App</summary>
-
+### Challenge: Kickstart the Songsheets Manager App
 ![Challenge 1 Image](challenge_1_image.jpg)
+<span style="background-color: yellow">#GeospatialData</span>
+<span style="background-color: cyan">#DataExtraction</span>
 
-#### Description
-
+<details>
+<summary>READ more</summary>
 [Description of the challenge goes here...]
 </details>
+
+
 
 <details>
 <summary>Challenge: Empowering Missionary Farming in Africa through Geospatial Data</summary>
