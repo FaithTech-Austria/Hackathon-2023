@@ -10,24 +10,18 @@
 <span style="background-color: orange">Songsheet Management</span>
 <span style="background-color: gray">App Development</span>
 
-
-<details>
-<summary>READ more</summary>
-
-**Introduction** <br/>
+#### Introduction
 There are many song sheet applications out there, but none of them do justice to a mixed band. 
 Many different users access many different songs, change parts of them and often destroy the song sheet files because they are not in a database where user rights can be assigned for different functions. At the same time, they only mean well when a transposition or capo setting is made. Help with the development of Songsheets Manager, a tailor-made app for mixed bands which helps worship teams work together more easily.
 
-**Tasks**
+#### Tasks
 1. Screen Design (Mock-Ups) and implementation in Flutter
 2. Database modelling and implementation in Java Spring Boot
 
-**TechStack**
+#### TechStack
 <span style="background-color: cyan">Flutter App</span>
 <span style="background-color: gray">Java Spring boot</span>
 <span style="background-color: gray">MySQL Datenbank</span>
-
-</details>
 
 
 ### Challenge 2: Challenge: Empowering Missionary Farming in Africa through Geospatial Data
