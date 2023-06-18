@@ -5,8 +5,11 @@
 ### Challenge 1: Kickstart the Songsheets Manager App
 ![Challenge 1 Image](challenge_1.jpg)
 
-<span style="color: yellow">#GeospatialData</span>
-<span style="background-color: cyan">#DataExtraction</span>
+<span style="color: blue">#Worship</span>
+<span style="color: red">#Mixed Bands</span>
+<span style="color: cyan">#Songsheet Management</span>
+<span style="color: blue">#App Development</span>
+
 
 <details>
 <summary>READ more</summary>
