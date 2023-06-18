@@ -13,7 +13,24 @@
 
 <details>
 <summary>READ more</summary>
-[Description of the challenge goes here...]
+
+##### Introduction 
+There are many song sheet applications out there, but none of them do justice to a mixed band. 
+Many different users access many different songs, change parts of them and often destroy the song sheet files because they are not in a database where user rights can be assigned for different functions. At the same time, they only mean well when a transposition or capo setting is made. The Songsheets Manager app is here to help. An app that is tailor-made for mixed bands. Databases containing RAW files and user-defined changes give the user a new way to manage and edit songsheet files.
+
+##### Tasks
+- Task 1
+- Task 2
+- Task 3
+
+##### TechStack
+<span style="color: blue">#Flutter App</span>
+<span style="color: blue">#Spring boot Java </span>
+<span style="color: blue">#MySQL Datenbank</span>
+<span style="color: blue">#Flutter App</span>
+
+
+
 </details>
 
 
