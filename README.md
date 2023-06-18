@@ -4,6 +4,9 @@
 
 ## Challenges
 
+<details>
+<summary>Click to expand: Challenge: Songsheet Manager App</summary>
+  
 ### Challenge 1: [Challenge Name]
 
 ![Challenge 1 Image](challenge_1_image.jpg)
@@ -11,6 +14,9 @@
 #### Description
 
 [Description of the challenge goes here...]
+</details>
+
+
 
 ### Challenge 2: [Challenge Name]
 
