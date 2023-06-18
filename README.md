@@ -1,4 +1,4 @@
-![Organization Logo](logo.png)
+![Organization Logo](logo_slide.png)
 
 ## Challenges
 
