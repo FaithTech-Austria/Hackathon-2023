@@ -53,7 +53,7 @@ To get more information and register for the Hackathon, checkout the following e
 
 
 ## Contact
-
-If you have any questions or need further assistance, please reach out to us at [email address].
+If you have any questions or need further assistance, please reach out to us at david.robl@faithtech.com or ulrich.kromer@faithtech.com .
+[Contact Us](mailto:david.robl@faithtech.com)
 
 We can't wait to see the amazing projects you create during the Hackathon! Good luck and happy coding!
