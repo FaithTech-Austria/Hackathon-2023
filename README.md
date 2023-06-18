@@ -42,8 +42,7 @@ Many different users access many different songs, change parts of them and often
 
 ## How to Participate
 
-To get more information and register for the Hackathon, checkout the following event page:
-
+To get more information and register for the Hackathon, checkout our [event page](https://www.eventbrite.com/e/faithtech-austria-hackathon-tickets-640764573087?aff=oddtdtcreator)
 
 
 ## Contact
