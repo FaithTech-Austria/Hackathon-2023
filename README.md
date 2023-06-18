@@ -5,9 +5,9 @@
 ## Challenges
 
 <details>
-<summary>Click to expand: Challenge: Songsheet Manager App</summary>
+<summary>Challenge: Kickstart the Songsheets Manager App</summary>
   
-### Challenge 1: [Challenge Name]
+### Challenge 1: Kickstart the Songsheets Manager App
 
 ![Challenge 1 Image](challenge_1_image.jpg)
 
