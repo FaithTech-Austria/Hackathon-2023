@@ -5,7 +5,7 @@
 ## Challenges
 
 ### Challenge: Kickstart the Songsheets Manager App
-![Challenge 1 Image](challenge_1_image.jpg)
+![Challenge 1 Image](challenge_1.jpg)
 
 <span style="color: yellow">#GeospatialData</span>
 <span style="background-color: cyan">#DataExtraction</span>
