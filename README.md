@@ -6,8 +6,6 @@
 
 <details>
 <summary>Challenge: Kickstart the Songsheets Manager App</summary>
-  
-### Challenge 1: Kickstart the Songsheets Manager App
 
 ![Challenge 1 Image](challenge_1_image.jpg)
 
@@ -16,15 +14,15 @@
 [Description of the challenge goes here...]
 </details>
 
-
-
-### Challenge 2: [Challenge Name]
+<details>
+<summary>Challenge: Empowering Missionary Farming in Africa through Geospatial Data</summary>
 
 ![Challenge 2 Image](challenge2.png)
 
 #### Description
 
 [Description of the challenge goes here...]
+</details>
 
 ### Challenge 3: [Challenge Name]
 
