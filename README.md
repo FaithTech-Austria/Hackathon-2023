@@ -1,10 +1,8 @@
-# FaithTech Austria Hackathon 2023
-
 ![Organization Logo](logo.png)
 
 ## Challenges
 
-### Challenge: Kickstart the Songsheets Manager App
+### Challenge 1: Kickstart the Songsheets Manager App
 ![Challenge 1 Image](challenge_1.jpg)
 
 <span style="color: yellow">#GeospatialData</span>
@@ -16,40 +14,27 @@
 </details>
 
 
-
-<details>
-<summary>Challenge: Empowering Missionary Farming in Africa through Geospatial Data</summary>
-
+### Challenge 2: Challenge: Empowering Missionary Farming in Africa through Geospatial Data
 ![Challenge 2 Image](challenge2.png)
 
-#### Description
-
+<details>
+<summary>READ mode</summary>
 [Description of the challenge goes here...]
 </details>
 
 ### Challenge 3: [Challenge Name]
-
 ![Challenge 3 Image](challenge3.png)
 
-#### Description
-
+<details>
+<summary>READ mode</summary>
 [Description of the challenge goes here...]
+</details>
 
 ## How to Participate
 
-To participate in the Hackathon, follow these steps:
+To get more information and register for the Hackathon, checkout the following event page:
 
-1. [Step 1...]
-2. [Step 2...]
-3. [Step 3...]
 
-## Resources
-
-Here are some resources to help you get started:
-
-- [Resource 1](https://example.com)
-- [Resource 2](https://example.com)
-- [Resource 3](https://example.com)
 
 ## Contact
 
