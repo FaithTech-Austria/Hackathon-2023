@@ -1,8 +1,13 @@
 ![Organization Logo](logo_slide.png)
 
-## Challenges
+# Table of Contents
+1. [Challenges](#challenges)
+2. [How to participate](#how-to-participate)
+3. [Contact](#contact)
 
-### Challenge 1: Kickstart the Songsheets Manager App
+## Challenges <a name="challenges"></a>
+
+### Challenge 1: Kickstart the Songsheets Manager App 
 ![Challenge 1 Image](challenge_1.jpg)
 
 <span style="background-color: green">Worship</span>
@@ -77,11 +82,11 @@ The challenge of the hackathon is to automate this process and think about ways 
 Specific challenge details are to be announced. 
 
 
-## How to Participate
+## How to Participate <a name="how-to-participate"></a>
 To get more information and register for the Hackathon, 
 checkout our [event page](https://www.eventbrite.com/e/faithtech-austria-hackathon-tickets-640764573087?aff=oddtdtcreator).
 
 
-## Contact
+## Contact <a name="contact"></a>
 If you have any questions or need further assistance, please [contact us](mailto:david.robl@faithtech.com). \
 We can't wait to see the amazing projects you create during the Hackathon! Good luck and happy coding!
