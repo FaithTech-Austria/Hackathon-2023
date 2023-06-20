@@ -30,16 +30,16 @@ The Songsheet Manager app aims to be the go-to app for people who
 - Want to customise the songsheet without damaging the original data
 Help develop Songsheets Manager, a tailor-made app for mixed bands that helps worship teams work together more easily.
 
-#### Tasks
+<h4> Tasks </h4>
 1. Screen design (mock-ups) and implementation in Flutter
 2. Database modelling and implementation in Java Spring Boot
 
-#### TechStack
+<h4> TechStack </h4>
 <span style="background-color: orange">Flutter App</span>
 <span style="background-color: orange">Java Spring boot</span>
 <span style="background-color: orange">MySQL Datenbank</span>
 
-#### Beneficiaries
+<h4> Beneficiaries </h4>
 - Worship bands (who play together regularly or sporadically)
 - Basically any group of people who make music together
 
@@ -57,26 +57,26 @@ Help develop Songsheets Manager, a tailor-made app for mixed bands that helps wo
 <details>
 <summary>Read more</summary>
 
-#### Introduction
+<h4> Introduction </h4>
 The mission of CareofCreation Tanzania is to train people in the implementation of sustainable agriculture and forestry techniques. 
 and forestry techniques to ensure sustainable development for people and their land.
 When planning a new permaculture project they need geospatial data such as contour lines, wind and rain patterns, sunlight maps, buildings and roads to create permaculture design maps of the area of interest. 
 Currently, the process of extracting and transforming the data is done manually, which is very time consuming. 
 The challenge of the hackathon is to automate this process and think about ways to make the data accessible to users, such as CareofCreation.
 
-#### Tasks
+<h4> Tasks </h4>
 1. Identification of relevant & available data sources for permaculture farm design
 2. Brainstorm on product architecture and deployment (ie desktop application vs web application)
 3. Implementation of data extraction and transformation pipeline
 
-#### TechStack
+<h4> TechStack </h4>
 <span style="background-color: orange">Date Extraction & Processing</span>
 <span style="background-color: orange">Databases</span>
 <span style="background-color: orange">Web Maps</span>
 <span style="background-color: orange">APIs</span>
 <span style="background-color: orange">GIS</span>
 
-#### Beneficiaries
+<h4> Beneficiaries </h4>
 - Care of Creation Tanzania
 - People and Organizations who want to implement permaculture sites in Africa. 
 
@@ -93,7 +93,7 @@ The challenge of the hackathon is to automate this process and think about ways 
 <details>
 <summary>Read more</summary>
 
-#### Introduction
+<h4> Introduction </h4>
 Specific challenge details are to be announced. 
 </details>
 
