@@ -64,7 +64,7 @@ Help develop Songsheets Manager, a tailor-made app for mixed bands that helps wo
 <summary>Read more</summary>
 
 <h4> Introduction </h4>
-The mission of <a href=https://careofcreationtanzania.com>CareofCreation Tanzania</a> is to train people in the implementation of sustainable agriculture and forestry techniques. 
+The mission of CareofCreation Tanzania is to train people in the implementation of sustainable agriculture and forestry techniques. 
 and forestry techniques to ensure sustainable development for people and their land.
 When planning a new permaculture project they need geospatial data such as contour lines, wind and rain patterns, sunlight maps, buildings and roads to create permaculture design maps of the area of interest. 
 Currently, the process of extracting and transforming the data is done manually, which is very time consuming. 
