@@ -25,14 +25,18 @@
 Interested in helping mixed bands work together more seamlessly?
 If so, then help launch the Songsheets Manager app during this hackathon.
 The Songsheet Manager app aims to be the go-to app for people who 
-- Want to easily share songsheets with a mixed band
-- want to do live updates
-- Want to customise the songsheet without damaging the original data
+<ul>
+  <li>Want to easily share songsheets with a mixed band</li>
+  <li>want to do live updates/li>
+  <li>Want to customise the songsheet without damaging the original data</li>
+</ul>
 Help develop Songsheets Manager, a tailor-made app for mixed bands that helps worship teams work together more easily.
 
 <h4> Tasks </h4>
-1. Screen design (mock-ups) and implementation in Flutter
-2. Database modelling and implementation in Java Spring Boot
+<ul>
+  <li>Screen design (mock-ups) and implementation in Flutter</li>
+  <li>Database modelling and implementation in Java Spring Boot/li>
+</ul>
 
 <h4> TechStack </h4>
 <span style="font-weight: bold; background-color: orange">Flutter App</span>
@@ -40,8 +44,10 @@ Help develop Songsheets Manager, a tailor-made app for mixed bands that helps wo
 <span style="font-weight: bold; background-color: orange">MySQL Datenbank</span>
 
 <h4> Beneficiaries </h4>
-- Worship bands (who play together regularly or sporadically)
-- Basically any group of people who make music together
+<ul>
+  <li>Worship bands (who play together regularly or sporadically)</li>
+  <li>Basically any group of people who make music together/li>
+</ul>
 
 </details>
 
@@ -65,9 +71,11 @@ Currently, the process of extracting and transforming the data is done manually,
 The challenge of the hackathon is to automate this process and think about ways to make the data accessible to users, such as CareofCreation.
 
 <h4> Tasks </h4>
-1. Identification of relevant & available data sources for permaculture farm design
-2. Brainstorm on product architecture and deployment (ie desktop application vs web application)
-3. Implementation of data extraction and transformation pipeline
+<ul>
+  <li>Identification of relevant & available data sources for permaculture farm design</li>
+  <li>Brainstorm on product architecture and deployment (ie desktop application vs web application)</li>
+  <li>Implementation of data extraction and transformation pipeline</li>
+</ul>
 
 <h4> TechStack </h4>
 <span style="font-weight: bold; background-color: orange">Date Extraction & Processing</span>
@@ -77,8 +85,10 @@ The challenge of the hackathon is to automate this process and think about ways 
 <span style="font-weight: bold; background-color: orange">GIS</span>
 
 <h4> Beneficiaries </h4>
-- Care of Creation Tanzania
-- People and Organizations who want to implement permaculture sites in Africa. 
+<ul>
+  <li>Care of Creation Tanzania</li>
+  <li>People and Organizations who want to implement permaculture sites in Africa </li>
+</ul>
 
 </details>
 
