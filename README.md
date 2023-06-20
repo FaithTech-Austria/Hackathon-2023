@@ -2,12 +2,15 @@
 
 # Table of Contents
 1. [Challenges](#challenges)
+    1. [Songsheets Manager App](#songsheet-manager)
+    2. [Permaculture Farming Tanzania](#permaculture-tanzania)
+    3. [Language Models for God's Kingdom - TBA](#language-models)
 2. [How to participate](#how-to-participate)
 3. [Contact](#contact)
 
 ## Challenges <a name="challenges"></a>
 
-### Challenge 1: Kickstart the Songsheets Manager App 
+### Challenge 1: Kickstart the Songsheets Manager App <a name="songsheet-manager"></a>
 ![Challenge 1 Image](challenge_1.jpg)
 
 <span style="background-color: green">Worship</span>
@@ -38,7 +41,7 @@ Help develop Songsheets Manager, a tailor-made app for mixed bands that helps wo
 - Basically any group of people who make music together
 
 
-### Challenge 2: Supporting Permaculture Farming in Africa through Geospatial Data
+### Challenge 2: Supporting Permaculture Farming in Africa through Geospatial Data <a name="permaculture-tanzania"></a>
 ![Challenge 2 Image](challenge_2.jpg)
 
 <span style="background-color: red">CareofCreation Tanzania</span>
@@ -71,7 +74,7 @@ The challenge of the hackathon is to automate this process and think about ways 
 - People and Organizations who want to implement permaculture sites in Africa. 
 
 
-### Challenge 3: How to utilize Language Models for the kingdom of God?
+### Challenge 3: How to utilize Language Models for the kingdom of God? <a name="language-models"></a>
 ![Challenge 3 Image](challenge_3.jpg)
 
 <span style="background-color: red">Natural Language Processing</span>
