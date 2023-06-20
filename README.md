@@ -13,10 +13,10 @@
 ### Challenge 1: Kickstart the Songsheets Manager App <a name="songsheet-manager"></a>
 ![Challenge 1 Image](challenge_1.jpg)
 
-<span style="background-color: green">Worship</span>
-<span style="background-color: red">Mixed Bands</span>
-<span style="background-color: orange">Songsheet Management</span>
-<span style="background-color: gray">App Development</span>
+<span style="font-weight: bold; background-color: green">Worship</span>
+<span style="font-weight: bold; background-color: red">Mixed Bands</span>
+<span style="font-weight: bold; background-color: orange">Songsheet Management</span>
+<span style="font-weight: bold; background-color: gray">App Development</span>
 
 <details>
 <summary>Read more</summary>
@@ -35,9 +35,9 @@ Help develop Songsheets Manager, a tailor-made app for mixed bands that helps wo
 2. Database modelling and implementation in Java Spring Boot
 
 <h4> TechStack </h4>
-<span style="background-color: orange">Flutter App</span>
-<span style="background-color: orange">Java Spring boot</span>
-<span style="background-color: orange">MySQL Datenbank</span>
+<span style="font-weight: bold; background-color: orange">Flutter App</span>
+<span style="font-weight: bold; background-color: orange">Java Spring boot</span>
+<span style="font-weight: bold; background-color: orange">MySQL Datenbank</span>
 
 <h4> Beneficiaries </h4>
 - Worship bands (who play together regularly or sporadically)
@@ -48,17 +48,17 @@ Help develop Songsheets Manager, a tailor-made app for mixed bands that helps wo
 ### Challenge 2: Supporting Permaculture Farming in Africa through Geospatial Data <a name="permaculture-tanzania"></a>
 ![Challenge 2 Image](challenge_2.jpg)
 
-<span style="background-color: red">CareofCreation Tanzania</span>
-<span style="background-color: blue">Farming in Gods way</span>
-<span style="background-color: yellow">Geospatial Data</span>
-<span style="background-color: gray">Web Maps</span>
-<span style="background-color: orange">Data Apps</span>
+<span style="font-weight: bold; background-color: red">CareofCreation Tanzania</span>
+<span style="font-weight: bold; background-color: blue">Farming in Gods way</span>
+<span style="font-weight: bold; background-color: yellow">Geospatial Data</span>
+<span style="font-weight: bold; background-color: gray">Web Maps</span>
+<span style="font-weight: bold; background-color: orange">Data Apps</span>
 
 <details>
 <summary>Read more</summary>
 
 <h4> Introduction </h4>
-The mission of CareofCreation Tanzania is to train people in the implementation of sustainable agriculture and forestry techniques. 
+The mission of <a href=https://careofcreationtanzania.com>CareofCreation Tanzania</a> is to train people in the implementation of sustainable agriculture and forestry techniques. 
 and forestry techniques to ensure sustainable development for people and their land.
 When planning a new permaculture project they need geospatial data such as contour lines, wind and rain patterns, sunlight maps, buildings and roads to create permaculture design maps of the area of interest. 
 Currently, the process of extracting and transforming the data is done manually, which is very time consuming. 
@@ -70,11 +70,11 @@ The challenge of the hackathon is to automate this process and think about ways 
 3. Implementation of data extraction and transformation pipeline
 
 <h4> TechStack </h4>
-<span style="background-color: orange">Date Extraction & Processing</span>
-<span style="background-color: orange">Databases</span>
-<span style="background-color: orange">Web Maps</span>
-<span style="background-color: orange">APIs</span>
-<span style="background-color: orange">GIS</span>
+<span style="font-weight: bold; background-color: orange">Date Extraction & Processing</span>
+<span style="font-weight: bold; background-color: orange">Databases</span>
+<span style="font-weight: bold; background-color: orange">Web Maps</span>
+<span style="font-weight: bold; background-color: orange">APIs</span>
+<span style="font-weight: bold; background-color: orange">GIS</span>
 
 <h4> Beneficiaries </h4>
 - Care of Creation Tanzania
@@ -86,9 +86,9 @@ The challenge of the hackathon is to automate this process and think about ways 
 ### Challenge 3: How to utilize Language Models for the kingdom of God? <a name="language-models"></a>
 ![Challenge 3 Image](challenge_3.jpg)
 
-<span style="background-color: red">Natural Language Processing</span>
-<span style="background-color: cyan">Conversational AI</span>
-<span style="background-color: green">Large Language Models</span>
+<span style="font-weight: bold; background-color: red">Natural Language Processing</span>
+<span style="font-weight: bold; background-color: cyan">Conversational AI</span>
+<span style="font-weight: bold; background-color: green">Large Language Models</span>
 
 <details>
 <summary>Read more</summary>
