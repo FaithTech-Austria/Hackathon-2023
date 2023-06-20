@@ -27,7 +27,7 @@ If so, then help launch the Songsheets Manager app during this hackathon.
 The Songsheet Manager app aims to be the go-to app for people who 
 <ul>
   <li>Want to easily share songsheets with a mixed band</li>
-  <li>want to do live updates/li>
+  <li>want to do live updates</li>
   <li>Want to customise the songsheet without damaging the original data</li>
 </ul>
 Help develop Songsheets Manager, a tailor-made app for mixed bands that helps worship teams work together more easily.
@@ -35,7 +35,7 @@ Help develop Songsheets Manager, a tailor-made app for mixed bands that helps wo
 <h4> Tasks </h4>
 <ul>
   <li>Screen design (mock-ups) and implementation in Flutter</li>
-  <li>Database modelling and implementation in Java Spring Boot/li>
+  <li>Database modelling and implementation in Java Spring Boot</li>
 </ul>
 
 <h4> TechStack </h4>
@@ -46,7 +46,7 @@ Help develop Songsheets Manager, a tailor-made app for mixed bands that helps wo
 <h4> Beneficiaries </h4>
 <ul>
   <li>Worship bands (who play together regularly or sporadically)</li>
-  <li>Basically any group of people who make music together/li>
+  <li>Basically any group of people who make music together</li>
 </ul>
 
 </details>
@@ -87,7 +87,7 @@ The challenge of the hackathon is to automate this process and think about ways 
 <h4> Beneficiaries </h4>
 <ul>
   <li>Care of Creation Tanzania</li>
-  <li>People and Organizations who want to implement permaculture sites in Africa </li>
+  <li>People and Organizations who want to implement permaculture sites in Africa</li>
 </ul>
 
 </details>
