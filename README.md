@@ -21,7 +21,7 @@
 <details>
 <summary>Read more</summary>
 
-#### Introduction
+<h4> Introduction </h4>
 Interested in helping mixed bands work together more seamlessly?
 If so, then help launch the Songsheets Manager app during this hackathon.
 The Songsheet Manager app aims to be the go-to app for people who 
