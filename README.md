@@ -18,6 +18,9 @@
 <span style="background-color: orange">Songsheet Management</span>
 <span style="background-color: gray">App Development</span>
 
+<details>
+<summary>Read more</summary>
+
 #### Introduction
 Interested in helping mixed bands work together more seamlessly?
 If so, then help launch the Songsheets Manager app during this hackathon.
@@ -40,6 +43,7 @@ Help develop Songsheets Manager, a tailor-made app for mixed bands that helps wo
 - Worship bands (who play together regularly or sporadically)
 - Basically any group of people who make music together
 
+</details>
 
 ### Challenge 2: Supporting Permaculture Farming in Africa through Geospatial Data <a name="permaculture-tanzania"></a>
 ![Challenge 2 Image](challenge_2.jpg)
@@ -49,6 +53,9 @@ Help develop Songsheets Manager, a tailor-made app for mixed bands that helps wo
 <span style="background-color: yellow">Geospatial Data</span>
 <span style="background-color: gray">Web Maps</span>
 <span style="background-color: orange">Data Apps</span>
+
+<details>
+<summary>Read more</summary>
 
 #### Introduction
 The mission of CareofCreation Tanzania is to train people in the implementation of sustainable agriculture and forestry techniques. 
@@ -73,6 +80,8 @@ The challenge of the hackathon is to automate this process and think about ways 
 - Care of Creation Tanzania
 - People and Organizations who want to implement permaculture sites in Africa. 
 
+</details>
+
 
 ### Challenge 3: How to utilize Language Models for the kingdom of God? <a name="language-models"></a>
 ![Challenge 3 Image](challenge_3.jpg)
@@ -81,9 +90,12 @@ The challenge of the hackathon is to automate this process and think about ways 
 <span style="background-color: cyan">Conversational AI</span>
 <span style="background-color: green">Large Language Models</span>
 
+<details>
+<summary>Read more</summary>
+
 #### Introduction
 Specific challenge details are to be announced. 
-
+</details>
 
 ## How to Participate <a name="how-to-participate"></a>
 To get more information and register for the Hackathon, 
