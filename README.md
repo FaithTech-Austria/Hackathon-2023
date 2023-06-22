@@ -54,11 +54,11 @@ Help develop Songsheets Manager, a tailor-made app for mixed bands that helps wo
 ### Challenge 2: Supporting Permaculture Farming in Africa through Geospatial Data <a name="permaculture-tanzania"></a>
 ![Challenge 2 Image](challenge_2.jpg)
 
-<span style="font-weight: bold; background-color: red">CareofCreation Tanzania</span>
-<span style="font-weight: bold; background-color: blue">Farming in Gods way</span>
-<span style="font-weight: bold; background-color: yellow">Geospatial Data</span>
-<span style="font-weight: bold; background-color: gray">Web Maps</span>
-<span style="font-weight: bold; background-color: orange">Data Apps</span>
+<span style="font-weight: bold; background-color: red">CareofCreation</span>
+<span style="font-weight: bold; background-color: red">Tanzania</span>
+<span style="font-weight: bold; background-color: blue">Sustainable Development</span>
+<span style="font-weight: bold; background-color: yellow">Permaculture</span>
+<span style="font-weight: bold; background-color: orange">Data Accessibility</span>
 
 <details>
 <summary>Read more</summary>
@@ -78,11 +78,14 @@ The challenge of the hackathon is to automate this process and think about ways 
 </ul>
 
 <h4> TechStack </h4>
-<span style="font-weight: bold; background-color: orange">Date Extraction & Processing</span>
-<span style="font-weight: bold; background-color: orange">Databases</span>
-<span style="font-weight: bold; background-color: orange">Web Maps</span>
-<span style="font-weight: bold; background-color: orange">APIs</span>
-<span style="font-weight: bold; background-color: orange">GIS</span>
+<span style="font-weight: bold; background-color: orange">Geospatial Data Analysis</span>
+<span style="font-weight: bold; background-color: orange">Automation</span>
+<span style="font-weight: bold; background-color: orange">Data Extraction</span>
+<span style="font-weight: bold; background-color: orange">Data Transformation</span>
+<span style="font-weight: bold; background-color: orange">Permaculture Design</span>
+<span style="font-weight: bold; background-color: orange">Mapping</span>
+
+<div class="tag">Topic</div>
 
 <h4> Beneficiaries </h4>
 <ul>
