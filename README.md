@@ -84,8 +84,7 @@ The challenge of the hackathon is to automate this process and think about ways 
 <span style="font-weight: bold; background-color: orange">Data Transformation</span>
 <span style="font-weight: bold; background-color: orange">Permaculture Design</span>
 <span style="font-weight: bold; background-color: orange">Mapping</span>
-
-<div class="tag">Topic</div>
+<span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">TechStack</span>
 
 <h4> Beneficiaries </h4>
 <ul>
