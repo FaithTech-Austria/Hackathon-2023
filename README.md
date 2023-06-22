@@ -4,7 +4,7 @@
 1. [Challenges](#challenges)
     1. [Songsheets Manager App](#songsheet-manager)
     2. [Permaculture Farming Tanzania](#permaculture-tanzania)
-    3. [Language Models for God's Kingdom - TBA](#language-models)
+    3. [Language Models for the Church - TBA](#language-models)
 2. [How to participate](#how-to-participate)
 3. [Contact](#contact)
 
@@ -78,12 +78,12 @@ The challenge of the hackathon is to automate this process and think about ways 
 </ul>
 
 <h4> TechStack </h4>
-<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Geospatial Data Analysis</span>
-<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Automation</span>
-<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Data Extraction</span>
-<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Data Transformation</span>
-<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Permaculture Design</span>
-<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Mapping</span>
+<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px 10px 10px 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Geospatial Data Analysis</span>
+<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px 10px 10px 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Automation</span>
+<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px 10px 10px 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Data Extraction</span>
+<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px 10px 10px 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Data Transformation</span>
+<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px 10px 10px 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Permaculture Design</span>
+<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px 10px 10px 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Mapping</span>
 
 <h4> Beneficiaries </h4>
 <ul>
@@ -94,7 +94,7 @@ The challenge of the hackathon is to automate this process and think about ways 
 </details>
 
 
-### Challenge 3: How to utilize Language Models for the kingdom of God? <a name="language-models"></a>
+### Challenge 3: How can recent developments in language models serve the church? <a name="language-models"></a>
 ![Challenge 3 Image](challenge_3.jpg)
 
 <span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Natural Language Processing</span>
