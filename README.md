@@ -30,7 +30,7 @@ The Songsheet Manager app aims to be the go-to app for people who
   <li>want to do live updates</li>
   <li>Want to customise the songsheet without damaging the original data</li>
 </ul>
-Help develop Songsheets Manager, a tailor-made app for mixed bands that helps worship teams work together more easily.
+Contribute to the creation of Songsheets Manager, a specialized app for mixed bands that simplifies collaboration and enhances teamwork for worship teams.
 
 <h4> Tasks </h4>
 <ul>
