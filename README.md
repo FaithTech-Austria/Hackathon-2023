@@ -13,10 +13,10 @@
 ### Challenge 1: Kickstart the Songsheets Manager App <a name="songsheet-manager"></a>
 ![Challenge 1 Image](challenge_1.jpg)
 
-<span style="font-weight: bold; background-color: green">Worship</span>
-<span style="font-weight: bold; background-color: red">Mixed Bands</span>
-<span style="font-weight: bold; background-color: orange">Songsheet Management</span>
-<span style="font-weight: bold; background-color: gray">App Development</span>
+<span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Worship</span>
+<span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Mixed Bands</span>
+<span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Songsheet Management</span>
+<span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">App Development</span>
 
 <details>
 <summary>Read more</summary>
@@ -39,9 +39,9 @@ Help develop Songsheets Manager, a tailor-made app for mixed bands that helps wo
 </ul>
 
 <h4> TechStack </h4>
-<span style="font-weight: bold; background-color: orange">Flutter App</span>
-<span style="font-weight: bold; background-color: orange">Java Spring boot</span>
-<span style="font-weight: bold; background-color: orange">MySQL Datenbank</span>
+<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Flutter App</span>
+<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Java Spring boot</span>
+<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">MySQL Datenbank</span>
 
 <h4> Beneficiaries </h4>
 <ul>
@@ -54,11 +54,11 @@ Help develop Songsheets Manager, a tailor-made app for mixed bands that helps wo
 ### Challenge 2: Supporting Permaculture Farming in Africa through Geospatial Data <a name="permaculture-tanzania"></a>
 ![Challenge 2 Image](challenge_2.jpg)
 
-<span style="font-weight: bold; background-color: red">CareofCreation</span>
-<span style="font-weight: bold; background-color: red">Tanzania</span>
-<span style="font-weight: bold; background-color: blue">Sustainable Development</span>
-<span style="font-weight: bold; background-color: yellow">Permaculture</span>
-<span style="font-weight: bold; background-color: orange">Data Accessibility</span>
+<span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">CareofCreation</span>
+<span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Tanzania</span>
+<span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Sustainable Development</span>
+<span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Permaculture</span>
+<span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Data Accessibility</span>
 
 <details>
 <summary>Read more</summary>
@@ -78,13 +78,12 @@ The challenge of the hackathon is to automate this process and think about ways 
 </ul>
 
 <h4> TechStack </h4>
-<span style="font-weight: bold; background-color: orange">Geospatial Data Analysis</span>
-<span style="font-weight: bold; background-color: orange">Automation</span>
-<span style="font-weight: bold; background-color: orange">Data Extraction</span>
-<span style="font-weight: bold; background-color: orange">Data Transformation</span>
-<span style="font-weight: bold; background-color: orange">Permaculture Design</span>
-<span style="font-weight: bold; background-color: orange">Mapping</span>
-<span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">TechStack</span>
+<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Geospatial Data Analysis</span>
+<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Automation</span>
+<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Data Extraction</span>
+<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Data Transformation</span>
+<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Permaculture Design</span>
+<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Mapping</span>
 
 <h4> Beneficiaries </h4>
 <ul>
@@ -98,9 +97,9 @@ The challenge of the hackathon is to automate this process and think about ways 
 ### Challenge 3: How to utilize Language Models for the kingdom of God? <a name="language-models"></a>
 ![Challenge 3 Image](challenge_3.jpg)
 
-<span style="font-weight: bold; background-color: red">Natural Language Processing</span>
-<span style="font-weight: bold; background-color: cyan">Conversational AI</span>
-<span style="font-weight: bold; background-color: green">Large Language Models</span>
+<span style=style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Natural Language Processing</span>
+<span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Conversational AI</span>
+<span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Large Language Models</span>
 
 <details>
 <summary>Read more</summary>
