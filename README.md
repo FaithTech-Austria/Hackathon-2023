@@ -64,11 +64,8 @@ Contribute to the creation of Songsheets Manager, a specialized app for mixed ba
 <summary>Read more</summary>
 
 <h4> Introduction </h4>
-The mission of CareofCreation Tanzania is to train people in the implementation of sustainable agriculture and forestry techniques. 
-and forestry techniques to ensure sustainable development for people and their land.
-When planning a new permaculture project they need geospatial data such as contour lines, wind and rain patterns, sunlight maps, buildings and roads to create permaculture design maps of the area of interest. 
-Currently, the process of extracting and transforming the data is done manually, which is very time consuming. 
-The challenge of the hackathon is to automate this process and think about ways to make the data accessible to users, such as CareofCreation.
+The mission of CareofCreation Tanzania is to train people in the implementation of sustainable agriculture and forestry techniques to ensure sustainable development for people and their land. When planning a new permaculture project they need geospatial data such as contour lines, wind and rain patterns, sunlight maps, buildings and roads to create permaculture design maps of the area of interest. 
+Currently, the process of extracting and transforming the data is done manually, which is very time consuming. The challenge of the hackathon is to automate this process and think about ways to make the data accessible to its users.
 
 <h4> Tasks </h4>
 <ul>
@@ -105,6 +102,7 @@ The challenge of the hackathon is to automate this process and think about ways 
 <summary>Read more</summary>
 
 <h4> Introduction </h4>
+How can we use the recent developments in large language models to serve the church and mission.
 Specific challenge details are to be announced. 
 </details>
 
