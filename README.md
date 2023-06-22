@@ -97,7 +97,7 @@ The challenge of the hackathon is to automate this process and think about ways 
 ### Challenge 3: How to utilize Language Models for the kingdom of God? <a name="language-models"></a>
 ![Challenge 3 Image](challenge_3.jpg)
 
-<span style=style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Natural Language Processing</span>
+<span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Natural Language Processing</span>
 <span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Conversational AI</span>
 <span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Large Language Models</span>
 
