@@ -123,10 +123,6 @@ How can we use the recent developments in large language models to serve the loc
   <li>The Local Church</li>
 </ul>
 
-</details>
-
-
-
 ## How to Participate <a name="how-to-participate"></a>
 To get more information and register for the Hackathon, 
 checkout our [event page](https://www.eventbrite.com/e/faithtech-austria-hackathon-tickets-640764573087?aff=oddtdtcreator).
