@@ -103,7 +103,6 @@ Currently, the process of extracting and transforming the data is done manually,
 
 <h4> Introduction </h4>
 How can we use the recent developments in large language models to serve the local church?
-</details>
 
 <h4> Tasks </h4>
 <ul>
@@ -122,6 +121,8 @@ How can we use the recent developments in large language models to serve the loc
 <ul>
   <li>The Local Church</li>
 </ul>
+
+</details>
 
 ## How to Participate <a name="how-to-participate"></a>
 To get more information and register for the Hackathon, 
