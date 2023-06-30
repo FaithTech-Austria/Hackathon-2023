@@ -94,9 +94,9 @@ Currently, the process of extracting and transforming the data is done manually,
 ### Challenge 3: How can recent developments in language models serve the church? <a name="language-models"></a>
 ![Challenge 3 Image](challenge_3.jpg)
 
-<span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Natural Language Processing</span>
-<span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Conversational AI</span>
-<span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Large Language Models</span>
+<span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Sermon</span>
+<span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Text summarization</span>
+<span style="background-color: orange; color: #333333; padding: 5px 10px; margin: 5px; border-radius: 20px; font-size: 14px;">Video Summarization</span>
 
 <details>
 <summary>Read more</summary>
