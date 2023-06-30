@@ -102,9 +102,30 @@ Currently, the process of extracting and transforming the data is done manually,
 <summary>Read more</summary>
 
 <h4> Introduction </h4>
-How can we use the recent developments in large language models to serve the church and mission.
-Specific challenge details are to be announced. 
+How can we use the recent developments in large language models to serve the local church?
 </details>
+
+<h4> Tasks </h4>
+<ul>
+  <li>Extract 3 main points from a recorded sermon</li>
+  <li>Summarize sermon in simple language</li>
+  <li>Extract 2-3 expressive video clips from sermon</li>
+</ul>
+
+<h4> TechStack </h4>
+<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px 10px 10px 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Large Language Models</span>
+<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px 10px 10px 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Natural Language Processing</span>
+<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px 10px 10px 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Speech-To-Text Coversion</span>
+<span style="background-color: black; color: orange; padding: 5px 10px; margin: 5px 10px 10px 5px; border-radius: 20px; font-size: 14px; font-weight: bold;">Video Editing</span>
+
+<h4> Beneficiaries </h4>
+<ul>
+  <li>The Local Church</li>
+</ul>
+
+</details>
+
+
 
 ## How to Participate <a name="how-to-participate"></a>
 To get more information and register for the Hackathon, 
